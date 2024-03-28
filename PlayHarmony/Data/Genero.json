@@ -1,0 +1,30 @@
+[
+    {
+      "Nome": "Pop",
+      "Cor": "#aab"
+    },
+    {
+      "Nome": "Country",
+      "Cor": "#39f"
+    },
+    {
+      "Nome": "Rock",
+      "Cor": "#76e"
+    },
+    {
+      "Nome": "R&B",
+      "Cor": "#fc3"
+    },
+    {
+      "Nome": "Indie/Alternativo",
+      "Cor": "#e9e"
+    },
+    {
+      "Nome": "Funk",
+      "Cor": "#66b"
+    },
+    {
+      "Nome": "Pagode",
+      "Cor": "#f42"
+    }
+  ]

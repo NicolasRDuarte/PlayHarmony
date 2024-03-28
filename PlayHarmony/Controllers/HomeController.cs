@@ -1,4 +1,5 @@
 using System.Diagnostics;
+using System.Text.Json;
 using Microsoft.AspNetCore.Mvc;
 using PlayHarmony.Models;
 
@@ -15,7 +16,13 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
-        return View();
+        List<Artista> artistas = [];
+        using (StreamReader leitor = new("Data\\Artista.json"))
+        {
+            string dados = leitor.ReadToEnd();
+            artistas = JsonSerializer.Deserialize<List<Artista>>(dados);
+        }
+        return View(artistas);
     }
 
     public IActionResult Privacy()

@@ -1,0 +1,362 @@
+[
+    {
+        "Id": 1,
+        "Nome": "Beyoncé",
+        "Descricao": "",
+        "Nalbuns": 8,
+        "Imagem": "",
+        "Tipo": ["Pop", "Country", "R&B"]
+    },
+    {
+        "Id": 2,
+        "Nome": "Taylor Swift",
+        "Descricao": "",
+        "Nalbuns": 11,
+        "Imagem": " ",
+        "Tipo": ["Pop", "Country"]
+    },
+    {
+        "Id": 3,
+        "Nome": "Michael Jackson",
+        "Descricao": "",
+        "Nalbuns": 11,
+        "Imagem": " ",
+        "Tipo": ["Pop"]
+    },
+    {
+        "Id": 4,
+        "Nome": "Elvis  Presley",
+        "Descricao": "",
+        "Nalbuns": 11,
+        "Imagem": " ",
+        "Tipo": ["Rock"]
+    },
+    {
+        "Id": 5,
+        "Nome": "Ariana Grande",
+        "Descricao": "",
+        "Nalbuns": 8,
+        "Imagem": " ",
+        "Tipo": ["Pop", "R&B"]
+    },
+    {
+        "Id": 6,
+        "Nome": "Lady Gaga",
+        "Descricao": "",
+        "Nalbuns": 6,
+        "Imagem": " ",
+        "Tipo": ["Pop"]
+    },
+    {
+        "Id": 7,
+        "Nome": "Katy Perry",
+        "Descricao": "",
+        "Nalbuns": 8,
+        "Imagem": " ",
+        "Tipo": ["Pop"]
+    },
+    {
+        "Id": 8,
+        "Nome": "Ludmilla",
+        "Descricao": "",
+        "Nalbuns": 8,
+        "Imagem": " ",
+        "Tipo": ["Pop", "Funk"]
+    },
+    {
+        "Id": 9,
+        "Nome": "Olivia Rodrigo",
+        "Descricao": "",
+        "Nalbuns": 2,
+        "Imagem": " ",
+        "Tipo": ["Pop"]
+    },
+    {
+        "Id": 10,
+        "Nome": "Tate Mcrae",
+        "Descricao": "",
+        "Nalbuns": 2,
+        "Imagem": " ",
+        "Tipo": ["Pop"]
+    },
+    {
+        "Id": 11,
+        "Nome": "Selena Gomez",
+        "Descricao": "",
+        "Nalbuns": 3,
+        "Imagem": " ",
+        "Tipo": ["Pop"]
+    },
+    {
+        "Id": 12,
+        "Nome": "Camila Cabello",
+        "Descricao": "",
+        "Nalbuns": 3,
+        "Imagem": " ",
+        "Tipo": ["Pop"]
+    },
+    {
+        "Id": 13,
+        "Nome": "Shawn Mendes",
+        "Descricao": "",
+        "Nalbuns": 8,
+        "Imagem": " ",
+        "Tipo": ["Pop", "R&B"]
+    },
+    {
+        "Id": 14,
+        "Nome": "U2",
+        "Descricao": "",
+        "Nalbuns": 8,
+        "Imagem": " ",
+        "Tipo": ["Rock"]
+    },
+    {
+        "Id": 15,
+        "Nome": "Kiss",
+        "Descricao": "",
+        "Nalbuns": 8,
+        "Imagem": " ",
+        "Tipo": ["Rock"]
+    },
+    {
+        "Id": 16,
+        "Nome": "Metalica",
+        "Descricao": "",
+        "Nalbuns": 8,
+        "Imagem": " ",
+        "Tipo": ["Rock"]
+    },
+    {
+        "Id": 17,
+        "Nome": "Adc",
+        "Descricao": "",
+        "Nalbuns": 8,
+        "Imagem": " ",
+        "Tipo": ["Rock"]
+    },
+    {
+        "Id": 18,
+        "Nome": "Queens",
+        "Descricao": "",
+        "Nalbuns": 8,
+        "Imagem": " ",
+        "Tipo": ["Rock"]
+    },
+    {
+        "Id": 19,
+        "Nome": "Kiss",
+        "Descricao": "",
+        "Nalbuns": 8,
+        "Imagem": " ",
+        "Tipo": ["Rock"]
+    },
+    {
+        "Id": 20,
+        "Nome": "Qus",
+        "Descricao": "",
+        "Nalbuns": 8,
+        "Imagem": " ",
+        "Tipo": ["Rock"]
+    },
+    {
+        "Id": 21,
+        "Nome": "Mariah Carey",
+        "Descricao": "",
+        "Nalbuns": 15,
+        "Imagem": " ",
+        "Tipo": ["R&B"]
+    },
+    {
+        "Id": 22,
+        "Nome": "Victoria Monét",
+        "Descricao": "",
+        "Nalbuns": 8,
+        "Imagem": " ",
+        "Tipo": ["R&B"]
+    },
+    {
+        "Id": 23,
+        "Nome": "Steve Wonder",
+        "Descricao": "",
+        "Nalbuns": 8,
+        "Imagem": " ",
+        "Tipo": ["R&B"]
+    },
+    {
+        "Id": 24,
+        "Nome": "Frannk Ocean",
+        "Descricao": "",
+        "Nalbuns": 8,
+        "Imagem": " ",
+        "Tipo": ["R&B"]
+    },
+    {
+        "Id": 25,
+        "Nome": "Coco Jones",
+        "Descricao": "",
+        "Nalbuns": 8,
+        "Imagem": " ",
+        "Tipo": ["R&B"]
+    },
+    {
+        "Id": 26,
+        "Nome": "Lana Del Rey",
+        "Descricao": "",
+        "Nalbuns": 8,
+        "Imagem": " ",
+        "Tipo": ["Indie/Alternativo"]
+    },
+    {
+        "Id": 27,
+        "Nome": "Melanie Martinez",
+        "Descricao": "",
+        "Nalbuns": 8,
+        "Imagem": " ",
+        "Tipo": ["Indie/Alternativo"]
+    },
+    {
+        "Id": 28,
+        "Nome": "Sia",
+        "Descricao": "",
+        "Nalbuns": 8,
+        "Imagem": " ",
+        "Tipo": ["Indie/Alternativo"]
+    },
+    {
+        "Id": 27,
+        "Nome": "Floence + The Machine",
+        "Descricao": "",
+        "Nalbuns": 8,
+        "Imagem": " ",
+        "Tipo": ["Indie/Alternativo"]
+    },
+    {
+        "Id": 29,
+        "Nome": "Conan Gray",
+        "Descricao": "",
+        "Nalbuns": 8,
+        "Imagem": " ",
+        "Tipo": ["Indie/Alternativo"]
+    },
+    {
+        "Id": 30,
+        "Nome": "Troye Sivan",
+        "Descricao": "",
+        "Nalbuns": 8,
+        "Imagem": " ",
+        "Tipo": ["Indie/Alternativo"]
+    },
+    {
+        "Id": 31,
+        "Nome": "Paramore",
+        "Descricao": "",
+        "Nalbuns": 8,
+        "Imagem": " ",
+        "Tipo": ["Indie/Alternativo"]
+    },
+    {
+        "Id": 32,
+        "Nome": "Anitta",
+        "Descricao": "",
+        "Nalbuns": 8,
+        "Imagem": " ",
+        "Tipo": ["Funk"]
+    },
+    {
+        "Id": 33,
+        "Nome": "Gloria Groove",
+        "Descricao": "",
+        "Nalbuns": 8,
+        "Imagem": " ",
+        "Tipo": ["Funk"]
+    },
+    {
+        "Id": 34,
+        "Nome": "Dj Arana",
+        "Descricao": "",
+        "Nalbuns": 8,
+        "Imagem": " ",
+        "Tipo": ["Funk"]
+    },
+    {
+        "Id": 35,
+        "Nome": "Mc Bin laden",
+        "Descricao": "",
+        "Nalbuns": 8,
+        "Imagem": " ",
+        "Tipo": ["Funk"]
+    },
+    {
+        "Id": 36,
+        "Nome": "Mc Biel",
+        "Descricao": "",
+        "Nalbuns": 8,
+        "Imagem": " ",
+        "Tipo": ["Funk"]
+    },
+    {
+        "Id": 37,
+        "Nome": "Turma do Pagode",
+        "Descricao": "",
+        "Nalbuns": 8,
+        "Imagem": " ",
+        "Tipo": ["Pagode"]
+    },
+    {
+        "Id": 39,
+        "Nome": "Tiaguinho",
+        "Descricao": "",
+        "Nalbuns": 8,
+        "Imagem": " ",
+        "Tipo": ["Pagode"]
+    },
+    {
+        "Id": 40,
+        "Nome": "Zeca Pagodinho",
+        "Descricao": "",
+        "Nalbuns": 8,
+        "Imagem": " ",
+        "Tipo": ["Pagode"]
+    },
+    {
+        "Id": 41,
+        "Nome": "Seu Jorge",
+        "Descricao": "",
+        "Nalbuns": 8,
+        "Imagem": " ",
+        "Tipo": ["Pagode"]
+    },
+    {
+        "Id": 42,
+        "Nome": "Ferrugem",
+        "Descricao": "",
+        "Nalbuns": 8,
+        "Imagem": " ",
+        "Tipo": ["Pagode"]
+    },
+    {
+        "Id": 43,
+        "Nome": "Dolly Parton",
+        "Descricao": "",
+        "Nalbuns": 8,
+        "Imagem": " ",
+        "Tipo": ["Country"]
+    },
+    {
+        "Id": 44,
+        "Nome": "Tim McGraw",
+        "Descricao": "",
+        "Nalbuns": 8,
+        "Imagem": " ",
+        "Tipo": ["Country"]
+    },
+    {
+        "Id": 45,
+        "Nome": "Billy Ray Cyrus",
+        "Descricao": "",
+        "Nalbuns": 8,
+        "Imagem": " ",
+        "Tipo": ["Country"]
+    }
+]
