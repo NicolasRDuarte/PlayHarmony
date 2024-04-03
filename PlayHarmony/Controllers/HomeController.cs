@@ -22,6 +22,13 @@ public class HomeController : Controller
             string dados = leitor.ReadToEnd();
             artistas = JsonSerializer.Deserialize<List<Artista>>(dados);
         }
+        List<Tipo> tipos = [];
+        using (StreamReader leitor = new("Data\\Genero.json"))
+        {
+            string dados = leitor.ReadToEnd();
+            tipos = JsonSerializer.Deserialize<List<Tipo>>(dados);
+        }
+        ViewData["Tipos"] = tipos;
         return View(artistas);
     }
 

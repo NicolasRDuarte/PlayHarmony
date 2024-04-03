@@ -2,57 +2,57 @@
     {
         "Id": 1,
         "Nome": "Beyoncé",
-        "Descricao": "",
+        "Descricao": "Beyoncé Giselle Knowles-Carter, é uma cantora, compositora, atriz, modelo, dançarina, empresária, estilista, produtora, diretora e roteirista americana. Referida como Queen Bey, ela tem sido amplamente reconhecida por seu talento artístico, voz e apresentações ao vivo.",
         "Nalbuns": 8,
-        "Imagem": "",
+        "Imagem": "\\img\\Beyoncé.jpg",
         "Tipo": ["Pop", "Country", "R&B"]
     },
     {
         "Id": 2,
         "Nome": "Taylor Swift",
-        "Descricao": "",
+        "Descricao": "Taylor Alison Swift é uma cantora, compositora, atriz, diretora e roteirista norte-americana. Suas composições narrativas, muitas vezes inspiradas pelas suas experiências pessoais, têm recebido ampla cobertura mediática e elogios de críticos.",
         "Nalbuns": 11,
-        "Imagem": " ",
+        "Imagem": "\\img\\Taylor Swift.jpg",
         "Tipo": ["Pop", "Country"]
     },
     {
         "Id": 3,
         "Nome": "Michael Jackson",
-        "Descricao": "",
-        "Nalbuns": 11,
-        "Imagem": " ",
+        "Descricao": "Michael Joseph Jackson foi um cantor, compositor e dançarino estadunidense. Apelidado de Rei do Pop, foi um dos ícones culturais mais importantes e influentes de todos os tempos e um dos maiores artistas da história da música.",
+        "Nalbuns": 10,
+        "Imagem": "\\img\\Michael Jackson.jpg",
         "Tipo": ["Pop"]
     },
     {
         "Id": 4,
         "Nome": "Elvis  Presley",
-        "Descricao": "",
-        "Nalbuns": 11,
-        "Imagem": " ",
+        "Descricao": "Elvis Aaron Presley foi um cantor, músico e ator estadunidense. Apelidado de Rei do Rock and Roll ou simplesmente O Rei, é considerado um dos ícones culturais mais significativos do século XX. ",
+        "Nalbuns": 24,
+        "Imagem": "\\img\\Elvis P.jpg",
         "Tipo": ["Rock"]
     },
     {
         "Id": 5,
         "Nome": "Ariana Grande",
-        "Descricao": "",
+        "Descricao": "Ariana Grande-Butera é uma cantora, compositora, produtora musical, atriz e empresária norte-americana. Ela é um dos nomes de maior relevância da música pop e do entretenimento, em geral, da atualidade.",
         "Nalbuns": 8,
-        "Imagem": " ",
+        "Imagem": "\\img\\Ariana Grande.jpg",
         "Tipo": ["Pop", "R&B"]
     },
     {
         "Id": 6,
         "Nome": "Lady Gaga",
-        "Descricao": "",
+        "Descricao": "Stefani Joanne Angelina Germanotta, mais conhecida pelo nome artístico Lady Gaga, é uma cantora, compositora, instrumentista, atriz, produtora musical e empresária estadunidense.",
         "Nalbuns": 6,
-        "Imagem": " ",
+        "Imagem": "\\img\\Lady Gaga.jpg",
         "Tipo": ["Pop"]
     },
     {
         "Id": 7,
         "Nome": "Katy Perry",
-        "Descricao": "",
+        "Descricao": "Katheryn Elizabeth Hudson, conhecida pelo nome artístico Katy Perry, é uma cantora e compositora estadunidense. Conhecida por sua influência na música pop moderna e seu estilo exagerado, ela foi chamada de Rainha do Camp pela revista Vogue.",
         "Nalbuns": 8,
-        "Imagem": " ",
+        "Imagem": "\\img\\Katy Perry.jpg",
         "Tipo": ["Pop"]
     },
     {
@@ -129,7 +129,7 @@
     },
     {
         "Id": 17,
-        "Nome": "Adc",
+        "Nome": "ACDC",
         "Descricao": "",
         "Nalbuns": 8,
         "Imagem": " ",
@@ -137,7 +137,7 @@
     },
     {
         "Id": 18,
-        "Nome": "Queens",
+        "Nome": "Queen",
         "Descricao": "",
         "Nalbuns": 8,
         "Imagem": " ",
@@ -145,7 +145,7 @@
     },
     {
         "Id": 19,
-        "Nome": "Kiss",
+        "Nome": "Guns N' Roses",
         "Descricao": "",
         "Nalbuns": 8,
         "Imagem": " ",
@@ -153,14 +153,6 @@
     },
     {
         "Id": 20,
-        "Nome": "Qus",
-        "Descricao": "",
-        "Nalbuns": 8,
-        "Imagem": " ",
-        "Tipo": ["Rock"]
-    },
-    {
-        "Id": 21,
         "Nome": "Mariah Carey",
         "Descricao": "",
         "Nalbuns": 15,
@@ -168,7 +160,7 @@
         "Tipo": ["R&B"]
     },
     {
-        "Id": 22,
+        "Id": 21,
         "Nome": "Victoria Monét",
         "Descricao": "",
         "Nalbuns": 8,
@@ -176,8 +168,16 @@
         "Tipo": ["R&B"]
     },
     {
+        "Id": 22,
+        "Nome": "Stevie Wonder",
+        "Descricao": "",
+        "Nalbuns": 8,
+        "Imagem": " ",
+        "Tipo": ["R&B"]
+    },
+    {
         "Id": 23,
-        "Nome": "Steve Wonder",
+        "Nome": "Frank Ocean",
         "Descricao": "",
         "Nalbuns": 8,
         "Imagem": " ",
@@ -185,14 +185,6 @@
     },
     {
         "Id": 24,
-        "Nome": "Frannk Ocean",
-        "Descricao": "",
-        "Nalbuns": 8,
-        "Imagem": " ",
-        "Tipo": ["R&B"]
-    },
-    {
-        "Id": 25,
         "Nome": "Coco Jones",
         "Descricao": "",
         "Nalbuns": 8,
@@ -200,7 +192,7 @@
         "Tipo": ["R&B"]
     },
     {
-        "Id": 26,
+        "Id": 25,
         "Nome": "Lana Del Rey",
         "Descricao": "",
         "Nalbuns": 8,
@@ -208,7 +200,7 @@
         "Tipo": ["Indie/Alternativo"]
     },
     {
-        "Id": 27,
+        "Id": 26,
         "Nome": "Melanie Martinez",
         "Descricao": "",
         "Nalbuns": 8,
@@ -216,7 +208,7 @@
         "Tipo": ["Indie/Alternativo"]
     },
     {
-        "Id": 28,
+        "Id": 27,
         "Nome": "Sia",
         "Descricao": "",
         "Nalbuns": 8,
