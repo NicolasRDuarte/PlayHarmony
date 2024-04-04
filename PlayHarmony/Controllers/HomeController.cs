@@ -32,6 +32,26 @@ public class HomeController : Controller
         return View(artistas);
     }
 
+    public IActionResult Details(int Id)
+    {
+        List<Artista> artistas = [];
+        using (StreamReader leitor = new("Data\\Artista.json"))
+        {
+            string dados = leitor.ReadToEnd();
+            artistas = JsonSerializer.Deserialize<List<Artista>>(dados);
+        }
+        List<Tipo> tipos = [];
+        using (StreamReader leitor = new("Data\\Genero.json"))
+        {
+            string dados = leitor.ReadToEnd();
+            tipos = JsonSerializer.Deserialize<List<Tipo>>(dados);
+        }
+        ViewData["Tipos"] = tipos;
+        var Artista = artistas
+            .Where(p => p.Id == Id)
+            .FirstOrDefault();
+        return View(Artista);
+    }
     public IActionResult Privacy()
     {
         return View();

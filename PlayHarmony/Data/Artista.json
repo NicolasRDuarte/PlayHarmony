@@ -60,7 +60,7 @@
         "Nome": "Ludmilla",
         "Descricao": "",
         "Nalbuns": 8,
-        "Imagem": " ",
+        "Imagem": "\\img\\Ludmilla.jpg",
         "Tipo": ["Pop", "Funk"]
     },
     {
@@ -68,7 +68,7 @@
         "Nome": "Olivia Rodrigo",
         "Descricao": "",
         "Nalbuns": 2,
-        "Imagem": " ",
+        "Imagem": "\\img\\Olivia Rodrigo.jpg",
         "Tipo": ["Pop"]
     },
     {
@@ -216,7 +216,7 @@
         "Tipo": ["Indie/Alternativo"]
     },
     {
-        "Id": 27,
+        "Id": 28,
         "Nome": "Floence + The Machine",
         "Descricao": "",
         "Nalbuns": 8,
@@ -296,7 +296,7 @@
         "Tipo": ["Pagode"]
     },
     {
-        "Id": 39,
+        "Id": 38,
         "Nome": "Tiaguinho",
         "Descricao": "",
         "Nalbuns": 8,
@@ -304,7 +304,7 @@
         "Tipo": ["Pagode"]
     },
     {
-        "Id": 40,
+        "Id": 39,
         "Nome": "Zeca Pagodinho",
         "Descricao": "",
         "Nalbuns": 8,
@@ -312,7 +312,7 @@
         "Tipo": ["Pagode"]
     },
     {
-        "Id": 41,
+        "Id": 40,
         "Nome": "Seu Jorge",
         "Descricao": "",
         "Nalbuns": 8,
@@ -320,7 +320,7 @@
         "Tipo": ["Pagode"]
     },
     {
-        "Id": 42,
+        "Id": 41,
         "Nome": "Ferrugem",
         "Descricao": "",
         "Nalbuns": 8,
@@ -328,7 +328,7 @@
         "Tipo": ["Pagode"]
     },
     {
-        "Id": 43,
+        "Id": 42,
         "Nome": "Dolly Parton",
         "Descricao": "",
         "Nalbuns": 8,
@@ -336,7 +336,7 @@
         "Tipo": ["Country"]
     },
     {
-        "Id": 44,
+        "Id": 43,
         "Nome": "Tim McGraw",
         "Descricao": "",
         "Nalbuns": 8,
@@ -344,7 +344,7 @@
         "Tipo": ["Country"]
     },
     {
-        "Id": 45,
+        "Id": 44,
         "Nome": "Billy Ray Cyrus",
         "Descricao": "",
         "Nalbuns": 8,
