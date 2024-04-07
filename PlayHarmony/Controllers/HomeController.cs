@@ -16,42 +16,43 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
-        List<Artista> artistas = [];
-        using (StreamReader leitor = new("Data\\Artista.json"))
-        {
-            string dados = leitor.ReadToEnd();
-            artistas = JsonSerializer.Deserialize<List<Artista>>(dados);
-        }
-        List<Tipo> tipos = [];
-        using (StreamReader leitor = new("Data\\Genero.json"))
-        {
-            string dados = leitor.ReadToEnd();
-            tipos = JsonSerializer.Deserialize<List<Tipo>>(dados);
-        }
+        List<Artista> artistas = GetArtistas();
+        List<Tipo> tipos = GetTipos();
         ViewData["Tipos"] = tipos;
         return View(artistas);
     }
 
     public IActionResult Details(int Id)
     {
-        List<Artista> artistas = [];
+        List<Artista> artistas = GetArtistas();
+        List<Tipo> tipos = GetTipos();
+        DetailsVM details = new() {
+            Tipos = tipos,
+            Atual = artistas.FirstOrDefault(p => p.Id == Id),
+            Anterior = artistas.OrderByDescending(p => p.Id).FirstOrDefault(p => p.Id < Id),
+            Proximo = artistas.OrderBy(p => p.Id).FirstOrDefault(p => p.Id > Id),
+        };
+        return View(details);
+    }
+
+    private List<Artista> GetArtistas()
+    {
         using (StreamReader leitor = new("Data\\Artista.json"))
         {
             string dados = leitor.ReadToEnd();
-            artistas = JsonSerializer.Deserialize<List<Artista>>(dados);
+            return JsonSerializer.Deserialize<List<Artista>>(dados);
         }
-        List<Tipo> tipos = [];
+    }
+
+     private List<Tipo> GetTipos()
+    {
         using (StreamReader leitor = new("Data\\Genero.json"))
         {
             string dados = leitor.ReadToEnd();
-            tipos = JsonSerializer.Deserialize<List<Tipo>>(dados);
+            return JsonSerializer.Deserialize<List<Tipo>>(dados);
         }
-        ViewData["Tipos"] = tipos;
-        var Artista = artistas
-            .Where(p => p.Id == Id)
-            .FirstOrDefault();
-        return View(Artista);
     }
+
     public IActionResult Privacy()
     {
         return View();

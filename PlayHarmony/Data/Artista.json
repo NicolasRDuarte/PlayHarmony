@@ -76,7 +76,7 @@
         "Nome": "Tate Mcrae",
         "Descricao": "",
         "Nalbuns": 2,
-        "Imagem": " ",
+        "Imagem": "\\img\\Tate Mcrae.jpg",
         "Tipo": ["Pop"]
     },
     {
@@ -84,7 +84,7 @@
         "Nome": "Selena Gomez",
         "Descricao": "",
         "Nalbuns": 3,
-        "Imagem": " ",
+        "Imagem": "\\img\\Selena Gomez.jpg ",
         "Tipo": ["Pop"]
     },
     {
@@ -92,7 +92,7 @@
         "Nome": "Camila Cabello",
         "Descricao": "",
         "Nalbuns": 3,
-        "Imagem": " ",
+        "Imagem": "\\img\\Camila Cabello.jpg",
         "Tipo": ["Pop"]
     },
     {
@@ -100,7 +100,7 @@
         "Nome": "Shawn Mendes",
         "Descricao": "",
         "Nalbuns": 8,
-        "Imagem": " ",
+        "Imagem": "\\img\\Shawn Mendes.jpg",
         "Tipo": ["Pop", "R&B"]
     },
     {
@@ -108,7 +108,7 @@
         "Nome": "U2",
         "Descricao": "",
         "Nalbuns": 8,
-        "Imagem": " ",
+        "Imagem": "\\img\\U2.jpg",
         "Tipo": ["Rock"]
     },
     {
@@ -116,15 +116,15 @@
         "Nome": "Kiss",
         "Descricao": "",
         "Nalbuns": 8,
-        "Imagem": " ",
+        "Imagem": "\\img\\Kiss.jpg",
         "Tipo": ["Rock"]
     },
     {
         "Id": 16,
-        "Nome": "Metalica",
+        "Nome": "Metallica",
         "Descricao": "",
         "Nalbuns": 8,
-        "Imagem": " ",
+        "Imagem": "\\img\\Metallica.jpg",
         "Tipo": ["Rock"]
     },
     {
@@ -132,7 +132,7 @@
         "Nome": "ACDC",
         "Descricao": "",
         "Nalbuns": 8,
-        "Imagem": " ",
+        "Imagem": "\\img\\ACDC.jpg",
         "Tipo": ["Rock"]
     },
     {
@@ -140,7 +140,7 @@
         "Nome": "Queen",
         "Descricao": "",
         "Nalbuns": 8,
-        "Imagem": " ",
+        "Imagem": "\\img\\Queen.jpg",
         "Tipo": ["Rock"]
     },
     {
@@ -148,7 +148,7 @@
         "Nome": "Guns N' Roses",
         "Descricao": "",
         "Nalbuns": 8,
-        "Imagem": " ",
+        "Imagem": "\\img\\Guns N Roses.jpg",
         "Tipo": ["Rock"]
     },
     {
@@ -156,7 +156,7 @@
         "Nome": "Mariah Carey",
         "Descricao": "",
         "Nalbuns": 15,
-        "Imagem": " ",
+        "Imagem": "\\img\\Mariah Carey.jpg",
         "Tipo": ["R&B"]
     },
     {
@@ -164,7 +164,7 @@
         "Nome": "Victoria Monét",
         "Descricao": "",
         "Nalbuns": 8,
-        "Imagem": " ",
+        "Imagem": "\\img\\Victoria Monét.jpg",
         "Tipo": ["R&B"]
     },
     {
@@ -172,7 +172,7 @@
         "Nome": "Stevie Wonder",
         "Descricao": "",
         "Nalbuns": 8,
-        "Imagem": " ",
+        "Imagem": "\\img\\Stevie Wonder.jpg",
         "Tipo": ["R&B"]
     },
     {
@@ -180,7 +180,7 @@
         "Nome": "Frank Ocean",
         "Descricao": "",
         "Nalbuns": 8,
-        "Imagem": " ",
+        "Imagem": "\\img\\Frank Ocean.jpg",
         "Tipo": ["R&B"]
     },
     {
@@ -188,7 +188,7 @@
         "Nome": "Coco Jones",
         "Descricao": "",
         "Nalbuns": 8,
-        "Imagem": " ",
+        "Imagem": "\\img\\Coco Jones.jpg",
         "Tipo": ["R&B"]
     },
     {
@@ -196,7 +196,7 @@
         "Nome": "Lana Del Rey",
         "Descricao": "",
         "Nalbuns": 8,
-        "Imagem": " ",
+        "Imagem": "\\img\\Lana Del Rey.jpg",
         "Tipo": ["Indie/Alternativo"]
     },
     {
@@ -204,7 +204,7 @@
         "Nome": "Melanie Martinez",
         "Descricao": "",
         "Nalbuns": 8,
-        "Imagem": " ",
+        "Imagem": "\\img\\Melanie Martinez.jpg",
         "Tipo": ["Indie/Alternativo"]
     },
     {
@@ -212,7 +212,7 @@
         "Nome": "Sia",
         "Descricao": "",
         "Nalbuns": 8,
-        "Imagem": " ",
+        "Imagem": "\\img\\Sia.jpg",
         "Tipo": ["Indie/Alternativo"]
     },
     {
@@ -220,7 +220,7 @@
         "Nome": "Floence + The Machine",
         "Descricao": "",
         "Nalbuns": 8,
-        "Imagem": " ",
+        "Imagem": "\\img\\Florence + the machine.jpg",
         "Tipo": ["Indie/Alternativo"]
     },
     {
@@ -228,7 +228,7 @@
         "Nome": "Conan Gray",
         "Descricao": "",
         "Nalbuns": 8,
-        "Imagem": " ",
+        "Imagem": "\\img\\Conan Gray.jpg",
         "Tipo": ["Indie/Alternativo"]
     },
     {
@@ -236,7 +236,7 @@
         "Nome": "Troye Sivan",
         "Descricao": "",
         "Nalbuns": 8,
-        "Imagem": " ",
+        "Imagem": "\\img\\Troye Sivan.jpg",
         "Tipo": ["Indie/Alternativo"]
     },
     {
@@ -244,7 +244,7 @@
         "Nome": "Paramore",
         "Descricao": "",
         "Nalbuns": 8,
-        "Imagem": " ",
+        "Imagem": "\\img\\Paramore.jpg",
         "Tipo": ["Indie/Alternativo"]
     },
     {
@@ -252,7 +252,7 @@
         "Nome": "Anitta",
         "Descricao": "",
         "Nalbuns": 8,
-        "Imagem": " ",
+        "Imagem": "\\img\\Anitta.jpg",
         "Tipo": ["Funk"]
     },
     {
@@ -260,7 +260,7 @@
         "Nome": "Gloria Groove",
         "Descricao": "",
         "Nalbuns": 8,
-        "Imagem": " ",
+        "Imagem": "\\img\\Gloria Groove.jpg",
         "Tipo": ["Funk"]
     },
     {
@@ -268,7 +268,7 @@
         "Nome": "Dj Arana",
         "Descricao": "",
         "Nalbuns": 8,
-        "Imagem": " ",
+        "Imagem": "\\img\\Dj Arana.jpg",
         "Tipo": ["Funk"]
     },
     {
@@ -276,7 +276,7 @@
         "Nome": "Mc Bin laden",
         "Descricao": "",
         "Nalbuns": 8,
-        "Imagem": " ",
+        "Imagem": "\\img\\Mc Bin Laden.jpg",
         "Tipo": ["Funk"]
     },
     {
@@ -284,7 +284,7 @@
         "Nome": "Mc Biel",
         "Descricao": "",
         "Nalbuns": 8,
-        "Imagem": " ",
+        "Imagem": "\\img\\Mc Biel.jpg",
         "Tipo": ["Funk"]
     },
     {
@@ -292,15 +292,15 @@
         "Nome": "Turma do Pagode",
         "Descricao": "",
         "Nalbuns": 8,
-        "Imagem": " ",
+        "Imagem": "\\img\\Turma do Pagode.jpg",
         "Tipo": ["Pagode"]
     },
     {
         "Id": 38,
-        "Nome": "Tiaguinho",
+        "Nome": "Thiaguinho",
         "Descricao": "",
         "Nalbuns": 8,
-        "Imagem": " ",
+        "Imagem": "\\img\\Thiaguinho.jpg",
         "Tipo": ["Pagode"]
     },
     {
@@ -308,7 +308,7 @@
         "Nome": "Zeca Pagodinho",
         "Descricao": "",
         "Nalbuns": 8,
-        "Imagem": " ",
+        "Imagem": "\\img\\Zeca Pagodinho.jpg",
         "Tipo": ["Pagode"]
     },
     {
@@ -316,7 +316,7 @@
         "Nome": "Seu Jorge",
         "Descricao": "",
         "Nalbuns": 8,
-        "Imagem": " ",
+        "Imagem": "\\img\\Seu Jorge.jpg",
         "Tipo": ["Pagode"]
     },
     {
@@ -324,7 +324,7 @@
         "Nome": "Ferrugem",
         "Descricao": "",
         "Nalbuns": 8,
-        "Imagem": " ",
+        "Imagem": "\\img\\Ferrugem.jpg",
         "Tipo": ["Pagode"]
     },
     {
@@ -332,7 +332,7 @@
         "Nome": "Dolly Parton",
         "Descricao": "",
         "Nalbuns": 8,
-        "Imagem": " ",
+        "Imagem": "\\img\\Dolly Parton.jpg",
         "Tipo": ["Country"]
     },
     {
@@ -340,7 +340,7 @@
         "Nome": "Tim McGraw",
         "Descricao": "",
         "Nalbuns": 8,
-        "Imagem": " ",
+        "Imagem": "\\img\\Tim McGraw.jpg",
         "Tipo": ["Country"]
     },
     {
@@ -348,7 +348,7 @@
         "Nome": "Billy Ray Cyrus",
         "Descricao": "",
         "Nalbuns": 8,
-        "Imagem": " ",
+        "Imagem": "\\img\\Billy Ray Cyrus.jpg",
         "Tipo": ["Country"]
     }
 ]
