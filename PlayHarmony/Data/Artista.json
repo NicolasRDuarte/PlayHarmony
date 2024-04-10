@@ -2,7 +2,7 @@
     {
         "Id": 1,
         "Nome": "Beyoncé",
-        "Descricao": "Beyoncé Giselle Knowles-Carter, é uma cantora, compositora, atriz, modelo, dançarina, empresária, estilista, produtora, diretora e roteirista americana. Referida como Queen Bey, ela tem sido amplamente reconhecida por seu talento artístico, voz e apresentações ao vivo.",
+        "Descricao": "Beyoncé Giselle Knowles-Carter, é uma cantora, compositora, atriz, modelo, dançarina, empresária, estilista, produtora, diretora e roteirista americana. Referida como Queen Bey, ela tem sido amplamente reconhecida por seu talento artístico, voz e apresentações ao vivo. Ela começou sua carreira como integrante do grupo Destiny’s Child e depois seguiu carreira solo. ",
         "Nalbuns": 8,
         "Imagem": "\\img\\Beyoncé.jpg",
         "Tipo": ["Pop", "Country", "R&B"]
@@ -58,15 +58,15 @@
     {
         "Id": 8,
         "Nome": "Ludmilla",
-        "Descricao": "",
-        "Nalbuns": 8,
+        "Descricao": "Ludmilla, é uma cantora, compositora, multi-instrumentista, atriz, empresária e apresentadora brasileira. Ela começou a cantar a partir dos oito anos de idade em rodas de pagode e iniciou sua carreira musical em 2012, quando passou a se apresentar sob o nome artístico de MC Beyoncé",
+        "Nalbuns": 3,
         "Imagem": "\\img\\Ludmilla.jpg",
         "Tipo": ["Pop", "Funk"]
     },
     {
         "Id": 9,
         "Nome": "Olivia Rodrigo",
-        "Descricao": "",
+        "Descricao": "Olivia Rodrigo é uma atriz, cantora e compositora norte-americana. Ela assinou com a Disney em 2015 e ganhou destaque na série de comédia “Bizaardvark” e na série “High School Musical: The Musical: The Series”.",
         "Nalbuns": 2,
         "Imagem": "\\img\\Olivia Rodrigo.jpg",
         "Tipo": ["Pop"]
@@ -74,7 +74,7 @@
     {
         "Id": 10,
         "Nome": "Tate Mcrae",
-        "Descricao": "",
+        "Descricao": "Descrição: Tate McRae é uma cantora e dançarina canadense. Ela ganhou popularidade com suas músicas e videoclipes cativantes.",
         "Nalbuns": 2,
         "Imagem": "\\img\\Tate Mcrae.jpg",
         "Tipo": ["Pop"]
@@ -82,7 +82,7 @@
     {
         "Id": 11,
         "Nome": "Selena Gomez",
-        "Descricao": "",
+        "Descricao": "Selena Gomez é uma cantora, atriz e produtora americana. Ela começou sua carreira na Disney e se tornou uma artista de sucesso global.",
         "Nalbuns": 3,
         "Imagem": "\\img\\Selena Gomez.jpg ",
         "Tipo": ["Pop"]
@@ -90,7 +90,7 @@
     {
         "Id": 12,
         "Nome": "Camila Cabello",
-        "Descricao": "",
+        "Descricao": "Camila Cabello é uma cantora e compositora cubano-americana. Ela ganhou fama como integrante do grupo Fifth Harmony e depois seguiu carreira solo.",
         "Nalbuns": 3,
         "Imagem": "\\img\\Camila Cabello.jpg",
         "Tipo": ["Pop"]
@@ -98,71 +98,71 @@
     {
         "Id": 13,
         "Nome": "Shawn Mendes",
-        "Descricao": "",
-        "Nalbuns": 8,
+        "Descricao": "Shawn Peter Raul Mendes é um cantor, compositor e modelo canadense. Ele ganhou popularidade em 2013, postando versões cover de músicas no aplicativo de compartilhamento de vídeos Vine.",
+        "Nalbuns": 3,
         "Imagem": "\\img\\Shawn Mendes.jpg",
         "Tipo": ["Pop", "R&B"]
     },
     {
         "Id": 14,
         "Nome": "U2",
-        "Descricao": "",
-        "Nalbuns": 8,
+        "Descricao": "O U2 é uma banda de rock irlandesa formada em 1976. Eles são conhecidos por suas músicas cativantes, letras poéticas e performances ao vivo emocionantes.",
+        "Nalbuns": 14,
         "Imagem": "\\img\\U2.jpg",
         "Tipo": ["Rock"]
     },
     {
         "Id": 15,
         "Nome": "Kiss",
-        "Descricao": "",
-        "Nalbuns": 8,
+        "Descricao": "O Kiss é uma banda de hard rock e glam metal dos Estados Unidos. Eles são famosos por suas maquiagens extravagantes, roupas chamativas e shows teatrais.",
+        "Nalbuns": 20,
         "Imagem": "\\img\\Kiss.jpg",
         "Tipo": ["Rock"]
     },
     {
         "Id": 16,
         "Nome": "Metallica",
-        "Descricao": "",
-        "Nalbuns": 8,
+        "Descricao": "Metallica é uma banda de thrash metal originária de Los Angeles. O seu repertório inclui tempos rápidos, pesados, melódicos, instrumentais e musicalidade agressiva, a qual os consagrou como pioneiros do thrash metal.",
+        "Nalbuns": 10,
         "Imagem": "\\img\\Metallica.jpg",
         "Tipo": ["Rock"]
     },
     {
         "Id": 17,
-        "Nome": "ACDC",
-        "Descricao": "",
-        "Nalbuns": 8,
+        "Nome": "AC/DC",
+        "Descricao": "AC/DC é uma banda australiana de rock formada em Sydney, Austrália em 1973, pelos irmãos escoceses Malcolm e Angus Young. O estilo musical da banda é normalmente classificado como hard rock e até mesmo blues rock. Mas seus membros sempre classificaram a sua música simplesmente como rock and roll.",
+        "Nalbuns": 18,
         "Imagem": "\\img\\ACDC.jpg",
         "Tipo": ["Rock"]
     },
     {
         "Id": 18,
         "Nome": "Queen",
-        "Descricao": "",
-        "Nalbuns": 8,
+        "Descricao": "Quenn é banda de rock britânica Queen, liderada pelo icônico Freddie Mercury, conhecida por sucessos como Bohemian Rhapsody e We Will Rock You",
+        "Nalbuns": 14,
         "Imagem": "\\img\\Queen.jpg",
         "Tipo": ["Rock"]
     },
     {
         "Id": 19,
         "Nome": "Guns N' Roses",
-        "Descricao": "",
-        "Nalbuns": 8,
+        "Descricao": "O grupo foi formado no início de 1985 pelos membros do Hollywood Rose Axl Rose (vocais) e Izzy Stradlin (guitarra rítmica); e membros do L.A. Guns Tracii Guns (guitarra solo), Ole Beich (baixo) e Robbie Gardner (bateria). ",
+        "Nalbuns": 6,
         "Imagem": "\\img\\Guns N Roses.jpg",
         "Tipo": ["Rock"]
     },
     {
         "Id": 20,
         "Nome": "Mariah Carey",
-        "Descricao": "",
+        "Descricao": "Mariah Carey Cantora é uma compositora americana conhecida por sua voz poderosa e uma série de hits,  uma das maiores divas do R&B e da música pop",
         "Nalbuns": 15,
         "Imagem": "\\img\\Mariah Carey.jpg",
-        "Tipo": ["R&B"]
+        "Tipo": ["R&B", "Pop"]
     },
     {
         "Id": 21,
         "Nome": "Victoria Monét",
-        "Descricao": "",
+        "Descricao": "Cantora, compositora e produtora americana conhecida por suas colaborações com diversos artistas, incluindo Ariana Grande, e por suas próprias músicas, como Moment e Oh my mama",
         "Nalbuns": 8,
         "Imagem": "\\img\\Victoria Monét.jpg",
         "Tipo": ["R&B"]
@@ -170,31 +170,31 @@
     {
         "Id": 22,
         "Nome": "Stevie Wonder",
-        "Descricao": "",
-        "Nalbuns": 8,
+        "Descricao": "Stevie Wonder é um dos músicos mais influentes da história da música popular, Stevie Wonder é um cantor, compositor e multi-instrumentista americano,  ícone da música soul e R&B. Seus álbuns incluem “Songs in the Key of Life” e “Innervisions”",
+        "Nalbuns": 21,
         "Imagem": "\\img\\Stevie Wonder.jpg",
         "Tipo": ["R&B"]
     },
     {
         "Id": 23,
         "Nome": "Frank Ocean",
-        "Descricao": "",
-        "Nalbuns": 8,
+        "Descricao": "Frank Ocean, é um cantor, compositor, produtor e empresário. Em 2010, ele se tornou um membro do grupo de hip hop alternativo OFWGKTA, e sua mixtape de estréia, Nostalgia, Ultra, foi lançado no ano seguinte. Ele lançou dois singles: Novacane e Swim Good, ambos tornaram-se sucesso nas paradas musicais. ",
+        "Nalbuns": 2,
         "Imagem": "\\img\\Frank Ocean.jpg",
         "Tipo": ["R&B"]
     },
     {
         "Id": 24,
         "Nome": "Coco Jones",
-        "Descricao": "",
-        "Nalbuns": 8,
+        "Descricao": "Courtney Jones, mais conhecida como Coco Jones é uma atriz, cantora e dançarina norte-americana. Destacou-se no programa da Rádio Disney Next Big Thing, ou NBT, tendo protagonizado pela primeira vez na televisão em Let It Shine, filme original do Disney Channel lançado a 15 de junho de 2012 nos Estados Unidos. ",
+        "Nalbuns": 5,
         "Imagem": "\\img\\Coco Jones.jpg",
         "Tipo": ["R&B"]
     },
     {
         "Id": 25,
         "Nome": "Lana Del Rey",
-        "Descricao": "",
+        "Descricao": "Elizabeth Woolridge Grant (Nova Iorque, 21 de junho de 1985) mais conhecida como Lana Del Rey, é uma cantora, compositora, modelo e poetisa americana. Sua música tem sido notada pelos críticos por seu aspecto cinematográfico estilizado, suas temáticas de romances trágicos, glamour e melancolia, e suas referências à cultura pop, especialmente a cultura dos Estados Unidos nos anos 1950 e 1960. Indicada a vários prêmios Grammy, Globo de Ouro e outros",
         "Nalbuns": 8,
         "Imagem": "\\img\\Lana Del Rey.jpg",
         "Tipo": ["Indie/Alternativo"]
@@ -202,31 +202,31 @@
     {
         "Id": 26,
         "Nome": "Melanie Martinez",
-        "Descricao": "",
-        "Nalbuns": 8,
+        "Descricao": "Melanie Martinez é uma cantora e compositora americana conhecida por sua estética única e músicas que frequentemente abordam temas obscuros e controversos. Ela ganhou destaque com o álbum Cry Baby.",
+        "Nalbuns": 2,
         "Imagem": "\\img\\Melanie Martinez.jpg",
         "Tipo": ["Indie/Alternativo"]
     },
     {
         "Id": 27,
         "Nome": "Sia",
-        "Descricao": "",
-        "Nalbuns": 8,
+        "Descricao": "Sia é uma cantora, compositora e produtora australiana conhecida por sua voz distintiva e por escrever músicas para outros artistas antes de lançar sua própria carreira solo",
+        "Nalbuns": 6,
         "Imagem": "\\img\\Sia.jpg",
         "Tipo": ["Indie/Alternativo"]
     },
     {
         "Id": 28,
         "Nome": "Floence + The Machine",
-        "Descricao": "",
-        "Nalbuns": 8,
+        "Descricao": "Florence + The Machine é uma banda britânica liderada pela vocalista Florence Welch, conhecida por sua mistura de indie rock, soul e música barroca. Sucessos incluem Dog Days Are Over e Shake It Out.",
+        "Nalbuns": 4,
         "Imagem": "\\img\\Florence + the machine.jpg",
         "Tipo": ["Indie/Alternativo"]
     },
     {
         "Id": 29,
         "Nome": "Conan Gray",
-        "Descricao": "",
+        "Descricao": "Conan Lee Gray é um cantor e compositor norte-americano. Seu primeiro álbum de estúdio, Kid Krow, estreou no número 5 da Billboard 200 dos EUA, tornando-se a maior estreia de um novo artista nos EUA naquela parada musical em 2020. Kid Krow inclui os singles de sucesso comercial Maniac e Heather. ",
         "Nalbuns": 8,
         "Imagem": "\\img\\Conan Gray.jpg",
         "Tipo": ["Indie/Alternativo"]
@@ -234,120 +234,120 @@
     {
         "Id": 30,
         "Nome": "Troye Sivan",
-        "Descricao": "",
-        "Nalbuns": 8,
+        "Descricao": "Cantor, compositor e ator sul-africano-australiano conhecido por sua música pop e por ser uma figura importante na comunidade LGBTQ+. Hits incluem Youth e My My My!.",
+        "Nalbuns": 2,
         "Imagem": "\\img\\Troye Sivan.jpg",
         "Tipo": ["Indie/Alternativo"]
     },
     {
         "Id": 31,
         "Nome": "Paramore",
-        "Descricao": "",
-        "Nalbuns": 8,
+        "Descricao": "O Paramore é uma banda de rock alternativo liderada pela vocalista Hayley Williams. Eles são conhecidos por suas músicas emocionais e energéticas.",
+        "Nalbuns": 6,
         "Imagem": "\\img\\Paramore.jpg",
         "Tipo": ["Indie/Alternativo"]
     },
     {
         "Id": 32,
         "Nome": "Anitta",
-        "Descricao": "",
-        "Nalbuns": 8,
+        "Descricao": "Cantora, compositora e dançarina brasileira conhecida por sua mistura de funk carioca, pop e música latina. Ela é famosa por hits como Downtown e Vai Malandra.",
+        "Nalbuns": 5,
         "Imagem": "\\img\\Anitta.jpg",
-        "Tipo": ["Funk"]
+        "Tipo": ["Funk", "Pop"]
     },
     {
         "Id": 33,
         "Nome": "Gloria Groove",
-        "Descricao": "",
-        "Nalbuns": 8,
+        "Descricao": "Cantora, compositora e drag queen brasileira conhecida por suas músicas que mesclam diversos gêneros musicais, incluindo funk, pop e rap. Sucessos incluem Bumbum de Ouro e Apaga a Luz.",
+        "Nalbuns": 3,
         "Imagem": "\\img\\Gloria Groove.jpg",
         "Tipo": ["Funk"]
     },
     {
         "Id": 34,
         "Nome": "Dj Arana",
-        "Descricao": "",
-        "Nalbuns": 8,
+        "Descricao": "Nascido no Rio de Janeiro e apaixonado por música desde a infância, DJ Arana começou sua jornada no mundo artístico ao tocar violão na escola. Mais tarde, seu interesse se voltou para o funk, gênero que o deixou obcecado e se tornou o foco de sua carreira. Ele estourou no cenário do funk carioca com seu primeiro single “Na Batida do Funk”, lançado em 2015",
+        "Nalbuns": 1,
         "Imagem": "\\img\\Dj Arana.jpg",
         "Tipo": ["Funk"]
     },
     {
         "Id": 35,
         "Nome": "Mc Bin laden",
-        "Descricao": "",
-        "Nalbuns": 8,
+        "Descricao": "Cantor brasileiro de funk carioca conhecido por suas músicas enérgicas e letras irreverentes. Ele ganhou destaque com hits como Ta Tranquilo Ta Favorável.",
+        "Nalbuns": 3,
         "Imagem": "\\img\\Mc Bin Laden.jpg",
         "Tipo": ["Funk"]
     },
     {
         "Id": 36,
         "Nome": "Mc Biel",
-        "Descricao": "",
-        "Nalbuns": 8,
+        "Descricao": " Gabriel Araújo Marins Rodrigues, mais conhecido pelo nome artístico Biel, é um cantor brasileiro de pop e funk melody, ele também trabalha como apresentador. Em abril de 2015, devido ao sucesso que fez na internet, assinou um contrato com a gravadora Warner Music. Seu segundo EP, Biel, foi lançado em junho do mesmo ano no iTunes. Conhecido principalmente pelos sucessos como Química e Pimenta.",
+        "Nalbuns": 1,
         "Imagem": "\\img\\Mc Biel.jpg",
         "Tipo": ["Funk"]
     },
     {
         "Id": 37,
         "Nome": "Turma do Pagode",
-        "Descricao": "",
-        "Nalbuns": 8,
+        "Descricao": "Grupo de pagode brasileiro conhecido por suas músicas animadas e suas apresentações ao vivo. Influenciados por grandes nomes do samba e pagode dos anos 90, o Turma do Pagode é formado por Leiz (tantã e vocal), Caramelo (banjo e vocal), Rubinho (pandeiro), Thiagão e Neni (percussão), Marcelinho TDP (cavaquinho), Leandro Filé (violão) e Fabiano Art (surdo). Seus sucessos incluem Lancinho e Deixa em Off.",
+        "Nalbuns": 2,
         "Imagem": "\\img\\Turma do Pagode.jpg",
         "Tipo": ["Pagode"]
     },
     {
         "Id": 38,
         "Nome": "Thiaguinho",
-        "Descricao": "",
-        "Nalbuns": 8,
+        "Descricao": "é cantor e compositor. Apaixonado por música desde a infância, alcançou notoriedade ao participar do reality show Fama (2002), na Globo, aos 19 anos. Apesar de não sair vencedor da competição, conseguiu estabelecer uma carreira de sucesso nos anos seguintes. Em 2003, passou a integrar o conjunto Exaltasamba, ficou conhecido por sua voz única e suas músicas românticas. ",
+        "Nalbuns": 6,
         "Imagem": "\\img\\Thiaguinho.jpg",
         "Tipo": ["Pagode"]
     },
     {
         "Id": 39,
         "Nome": "Zeca Pagodinho",
-        "Descricao": "",
-        "Nalbuns": 8,
+        "Descricao": "Jessé Gomes da Silva Filho, conhecido pelo nome artístico Zeca Pagodinho (Rio de Janeiro, 4 de fevereiro de 1959), é um cantor e compositor brasileiro. Gravou mais de 20 discos e é considerado um grande nome do gênero samba. Zeca Pagodinho no programa TVZ em 2022.",
+        "Nalbuns": 18,
         "Imagem": "\\img\\Zeca Pagodinho.jpg",
         "Tipo": ["Pagode"]
     },
     {
         "Id": 40,
         "Nome": "Seu Jorge",
-        "Descricao": "",
-        "Nalbuns": 8,
+        "Descricao": "Cantor e ator brasileiro conhecido por sua voz grave e seu estilo musical que mistura samba, MPB e rock. Ele é conhecido internacionalmente por seu trabalho no filme Cidade de Deus e por suas músicas como Carolina e Burguesinha.",
+        "Nalbuns": 15,
         "Imagem": "\\img\\Seu Jorge.jpg",
         "Tipo": ["Pagode"]
     },
     {
         "Id": 41,
         "Nome": "Ferrugem",
-        "Descricao": "",
-        "Nalbuns": 8,
+        "Descricao": "Jheison Failde de Souza, mais conhecido pelo nome artístico Ferrugem, é um cantor e compositor brasileiro. Após ganhar destaque com a canção Climatizar nas rádios, Ferrugem assinou com a gravadora Warner Music Brasil e lançou em 2015 seu álbum de estreia Climatizar.",
+        "Nalbuns": 7,
         "Imagem": "\\img\\Ferrugem.jpg",
         "Tipo": ["Pagode"]
     },
     {
         "Id": 42,
         "Nome": "Dolly Parton",
-        "Descricao": "",
-        "Nalbuns": 8,
+        "Descricao": "Dolly Rebecca Parton Dean é uma cantora, compositora, atriz e filantropa norte-americana. É considerada um dos maiores nomes na história da música mundial. ",
+        "Nalbuns": 49,
         "Imagem": "\\img\\Dolly Parton.jpg",
         "Tipo": ["Country"]
     },
     {
         "Id": 43,
         "Nome": "Tim McGraw",
-        "Descricao": "",
-        "Nalbuns": 8,
+        "Descricao": "Cantor e compositor americano de música country conhecido por uma série de sucessos, incluindo Live Like You Were Dying e Humble and Kind.",
+        "Nalbuns": 16,
         "Imagem": "\\img\\Tim McGraw.jpg",
         "Tipo": ["Country"]
     },
     {
         "Id": 44,
         "Nome": "Billy Ray Cyrus",
-        "Descricao": "",
-        "Nalbuns": 8,
+        "Descricao": "William Billy Ray Cyrus é um cantor de música country, compositor, ator e filantropo dos Estados Unidos, que tornou-se um fenômeno mundial na música country.",
+        "Nalbuns": 16,
         "Imagem": "\\img\\Billy Ray Cyrus.jpg",
         "Tipo": ["Country"]
     }

@@ -12,3 +12,23 @@
 .cursor-pointer {
   cursor: pointer;
 }
+
+.navbar{
+  background-color: #9273d2;
+}
+
+.text-white{
+  background-color: #9273d2;
+}
+
+.collapse{
+  background-color: #9273d2;
+}
+
+strong{
+  color: white;
+}
+
+.Botao{
+  color: #51c9e7;
+}
